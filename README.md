@@ -1,1 +1,1 @@
-0x0D. SQL - Introduction
+0x13. JavaScript - Objects, Scopes and Closures
